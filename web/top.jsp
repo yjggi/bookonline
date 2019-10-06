@@ -9,19 +9,16 @@
         <a href="${pageContext.request.contextPath}/index">首页</a>
     </li>
     <li>
-        <a href="#">读书</a>
+        <a href="#">视频</a>
     </li>
     <li>
         <a href="#">音乐</a>
     </li>
     <li>
-        <a href="#">小组</a>
+        <a href="#">漫画</a>
     </li>
     <li>
         <a href="#">同城</a>
-    </li>
-    <li>
-        <a href="#">FM</a>
     </li>
     <li>
         <a href="#">时间</a>
